@@ -1,0 +1,39 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "colenet",
+  "owner": {
+    "name": "colenet GmbH",
+    "url": "https://www.colenet.de"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by colenet — tools for agile product development in teams.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "colenet-agile",
+      "source": {
+        "source": "github",
+        "repo": "colenet-gmbh/colenet-claude-code-plugin"
+      },
+      "description": "colenet's Claude Code harness for agile product development in teams. Bundles the best practices of our consultants and engineers as skills — growing step by step.",
+      "version": "0.1.0",
+      "author": {
+        "name": "colenet GmbH",
+        "url": "https://www.colenet.de"
+      },
+      "homepage": "https://github.com/colenet-gmbh/colenet-claude-code-plugin",
+      "repository": "https://github.com/colenet-gmbh/colenet-claude-code-plugin",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "agile",
+        "scrum",
+        "product-development",
+        "facilitation",
+        "refinement",
+        "colenet"
+      ]
+    }
+  ]
+}

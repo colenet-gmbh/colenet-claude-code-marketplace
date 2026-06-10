@@ -1,4 +1,4 @@
-# colenet Claude Code Marketplace
+# Colenet Claude Code Marketplace
 
 The official [Claude Code](https://docs.claude.com/en/docs/claude-code) plugin
 marketplace of [colenet GmbH](https://www.colenet.de) — a specialist in agile

@@ -11,12 +11,12 @@
   },
   "plugins": [
     {
-      "name": "colenet-agile",
+      "name": "capd",
       "source": {
         "source": "github",
         "repo": "colenet-gmbh/colenet-claude-code-plugin"
       },
-      "description": "colenet's Claude Code harness for agile product development in teams. Bundles the best practices of our consultants and engineers as skills — growing step by step.",
+      "description": "CAPD — Colenet Agentic Product Development. colenet's Claude Code harness for agentic product development in teams. Bundles the best practices of our consultants and engineers as skills — growing step by step.",
       "version": "0.1.0",
       "author": {
         "name": "colenet GmbH",
@@ -27,11 +27,12 @@
       "license": "MIT",
       "category": "productivity",
       "keywords": [
+        "capd",
+        "agentic",
         "agile",
         "scrum",
         "product-development",
         "facilitation",
-        "refinement",
         "colenet"
       ]
     }

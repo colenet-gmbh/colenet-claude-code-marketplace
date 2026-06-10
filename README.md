@@ -23,12 +23,12 @@ Then browse and install plugins:
 
 | Plugin | Repository | Description |
 |--------|-----------|-------------|
-| `colenet-agile` | [`colenet-claude-code-plugin`](https://github.com/colenet-gmbh/colenet-claude-code-plugin) | Harness for agile product development in teams. Bundles colenet's best practices as skills — growing step by step. |
+| `capd` | [`colenet-claude-code-plugin`](https://github.com/colenet-gmbh/colenet-claude-code-plugin) | **C**olenet **A**gentic **P**roduct **D**evelopment — harness for agentic product development in teams. Bundles colenet's best practices as skills — growing step by step. |
 
 Install a specific plugin:
 
 ```text
-/plugin install colenet-agile@colenet
+/plugin install capd@colenet
 ```
 
 ## How this marketplace is organized

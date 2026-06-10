@@ -17,7 +17,6 @@
         "repo": "colenet-gmbh/colenet-claude-code-plugin"
       },
       "description": "CAPD — Colenet Agentic Product Development. colenet's Claude Code harness for agentic product development in teams. Bundles the best practices of our consultants and engineers as skills — growing step by step.",
-      "version": "0.1.0",
       "author": {
         "name": "colenet GmbH",
         "url": "https://www.colenet.de"
